@@ -37,5 +37,4 @@ func main() {
 	if maps.Equal(numbers, numbers2) {
 		fmt.Println("maps are equal")
 	}
-
 }
